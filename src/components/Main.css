@@ -38,6 +38,16 @@ img {
 }
 .contentwords {
     margin-right:2em;
+    height:100%;
+    width:fit-content;
+}
+
+.contentwords>p {
+    font-size: 24px;
+}
+
+.contentwords>h2 {
+    font-size:36px;
 }
 
 @media(min-width:470px) {
