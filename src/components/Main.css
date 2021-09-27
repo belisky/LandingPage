@@ -43,11 +43,11 @@ img {
 }
 
 .contentwords>p {
-    font-size: 24px;
+    font-size: 18px;
 }
 
 .contentwords>h2 {
-    font-size:36px;
+    font-size:24px;
 }
 
 @media(min-width:470px) {
@@ -63,10 +63,10 @@ img {
         margin-top: 2em;
     }
     .contentwords>p{
-        font-size:18px;
+        font-size:24px;
     }
     .contentwords>h2 {
-        font-size:24px;
+        font-size:36px;
     }
 }
 
