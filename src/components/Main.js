@@ -28,7 +28,7 @@ const Main = () => {
                 <div className='emailinput'>
                     <input type='text' placeholder='Your email address here' className='email'/>
                     
-                    <FaIcons.FaArrowCircleRight size={24}/>
+                    <FaIcons.FaArrowCircleRight size={24} align='center'/>
                      
                     
                 </div>

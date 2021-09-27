@@ -7,7 +7,7 @@
 
 .container {
     margin-inline:auto;
-    width:min(90%,70.5rem);
+    width:min(70%,70.5rem);
 
 }
 
@@ -62,6 +62,12 @@ img {
     .emailinput {
         margin-top: 2em;
     }
+    .contentwords>p{
+        font-size:18px;
+    }
+    .contentwords>h2 {
+        font-size:24px;
+    }
 }
 
 section {
@@ -73,9 +79,9 @@ section {
     display:block;   
     align-items: center;
     justify-content: center;
-     
+     padding:1em;
     width:fit-content;
-    padding:1em;
+    
     box-shadow: 1px 3px 15px -5px #888888;
      
 }
@@ -83,9 +89,9 @@ section {
 .email {
     align-items: center;
     justify-content: center;
-    margin-right: 3em;
+    margin-right:2em 3em ;
     border:none;
-    padding-right: 2em;
+    padding:1em 1em;
     font-style:bold;
 
 }
